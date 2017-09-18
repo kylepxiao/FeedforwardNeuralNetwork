@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1491233559 source:/home/kylepxiao/Documents/Coding-Projects/C++/Code Blocks Projects/gradient_descent/main.cpp
+	<iostream>
+	<Matrix.h>
+	<Neural_Network.h>
+
+1491072880 source:/home/kylepxiao/Documents/Coding-Projects/C++/Code Blocks Projects/gradient_descent/src/Matrix.cpp
+	"Matrix.h"
+
+1491070249 /home/kylepxiao/Documents/Coding-Projects/C++/Code Blocks Projects/gradient_descent/include/Matrix.h
+	<iostream>
+	<vector>
+	<string>
+	<cmath>
+
+1491233597 /home/kylepxiao/Documents/Coding-Projects/C++/Code Blocks Projects/gradient_descent/include/Neural_Network.h
+	<random>
+	<algorithm>
+	<Matrix.h>
+
+1491184941 source:/home/kylepxiao/Documents/Coding-Projects/C++/Code Blocks Projects/gradient_descent/src/Neural_Network.cpp
+	"Neural_Network.h"
+
